@@ -27,6 +27,4 @@ dependencies {
     compile 'com.android.support:appcompat-v7:24.2.1'
     testCompile 'junit:junit:4.12'
     compile project(':library')
-
-    compile 'com.github.huangjingqiang:OkHttpUtil:v0.1.0'
 }
